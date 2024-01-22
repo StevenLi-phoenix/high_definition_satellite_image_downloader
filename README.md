@@ -33,4 +33,4 @@ MIT
 
 # Credits
 
-(https://github.com/andolg/satellite-imagery-downloader)[https://github.com/andolg/satellite-imagery-downloader]
+[https://github.com/andolg/satellite-imagery-downloader](https://github.com/andolg/satellite-imagery-downloader)
